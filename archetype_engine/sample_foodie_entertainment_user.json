@@ -1,0 +1,702 @@
+[
+  {
+    "amount": 834.51,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-08T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1462.1,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-26T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1047.77,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-01T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 664.14,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-25T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 839.15,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 385.99,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-19T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 391.54,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-02T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 901.54,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-20T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2225.61,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-02-16T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 761.49,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 43045.3,
+    "transaction_type": "credit",
+    "merchant_name": "Salary Merchant",
+    "date_time": "2024-03-02T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 1433.17,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-02-22T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 338.85,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-19T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 612.06,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-02-16T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 670.94,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-01T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 376.8,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-27T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 996.48,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Merchant",
+    "date_time": "2024-02-01T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 908.89,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-02T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 855.23,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-03-18T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 561.03,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 788.33,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-19T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2286.1,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-02-29T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 522.6,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-02-12T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 423.46,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-26T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 581.51,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-22T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2353.98,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Merchant",
+    "date_time": "2024-02-21T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 4848.41,
+    "transaction_type": "debit",
+    "merchant_name": "Loan Emi Merchant",
+    "date_time": "2024-03-29T00:00:00",
+    "category": "Loan Emi"
+  },
+  {
+    "amount": 956.34,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 629.35,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-25T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 932.21,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-02-08T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2420.07,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Merchant",
+    "date_time": "2024-03-20T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 394.1,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-14T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 756.14,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-16T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 400.91,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 539.41,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-07T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1662.97,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-03-31T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 33634.82,
+    "transaction_type": "credit",
+    "merchant_name": "Salary Merchant",
+    "date_time": "2024-02-24T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 1836.3,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Merchant",
+    "date_time": "2024-03-11T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 676.7,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1306.62,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-02-20T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 1343.72,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-02-04T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2845.87,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-03-17T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 998.47,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-25T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 37550.25,
+    "transaction_type": "credit",
+    "merchant_name": "Salary Merchant",
+    "date_time": "2024-02-28T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 407.97,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-12T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 340.94,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-09T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1327.03,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-02-04T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 855.83,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-25T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 696.57,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-02-23T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 579.86,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-06T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 684.27,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-23T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1223.92,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-07T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 418.39,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-28T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 438.03,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-16T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 778.97,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-02-17T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 1114.85,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-21T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 3490.14,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Merchant",
+    "date_time": "2024-02-24T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 574.04,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-03T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 587.96,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-13T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 554.63,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-05T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 983.35,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-16T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 956.32,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-03-09T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 2301.35,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-02-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1292.56,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-02-08T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1302.59,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-03T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 40430.02,
+    "transaction_type": "credit",
+    "merchant_name": "Salary Merchant",
+    "date_time": "2024-03-22T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 2511.0,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-03-30T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1455.46,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-03-01T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 842.97,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-24T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 341.69,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2257.64,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Merchant",
+    "date_time": "2024-02-28T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 954.34,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-02-06T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 5711.94,
+    "transaction_type": "debit",
+    "merchant_name": "Loan Emi Merchant",
+    "date_time": "2024-03-22T00:00:00",
+    "category": "Loan Emi"
+  },
+  {
+    "amount": 2882.67,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-02-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 859.51,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-19T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 917.62,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-15T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 546.72,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-22T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 520.7,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4107.69,
+    "transaction_type": "debit",
+    "merchant_name": "Loan Emi Merchant",
+    "date_time": "2024-02-03T00:00:00",
+    "category": "Loan Emi"
+  },
+  {
+    "amount": 1372.6,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-09T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1224.48,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-02-04T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1063.51,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-03-26T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 2102.09,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Merchant",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 5692.33,
+    "transaction_type": "debit",
+    "merchant_name": "Loan Emi Merchant",
+    "date_time": "2024-03-30T00:00:00",
+    "category": "Loan Emi"
+  },
+  {
+    "amount": 943.45,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-22T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2161.42,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Merchant",
+    "date_time": "2024-02-18T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 1175.06,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-03-19T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 502.86,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-03-03T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 1557.06,
+    "transaction_type": "debit",
+    "merchant_name": "Shopping Merchant",
+    "date_time": "2024-02-02T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 866.24,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-25T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 917.36,
+    "transaction_type": "debit",
+    "merchant_name": "Groceries Merchant",
+    "date_time": "2024-03-30T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 3056.83,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Merchant",
+    "date_time": "2024-02-20T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 478.53,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-29T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4357.04,
+    "transaction_type": "debit",
+    "merchant_name": "Loan Emi Merchant",
+    "date_time": "2024-02-09T00:00:00",
+    "category": "Loan Emi"
+  },
+  {
+    "amount": 55745.5,
+    "transaction_type": "credit",
+    "merchant_name": "Salary Merchant",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 501.39,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-15T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4315.52,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Merchant",
+    "date_time": "2024-02-17T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 763.16,
+    "transaction_type": "debit",
+    "merchant_name": "Entertainment Merchant",
+    "date_time": "2024-02-03T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 548.29,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-02-22T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 926.67,
+    "transaction_type": "debit",
+    "merchant_name": "Dining Merchant",
+    "date_time": "2024-03-14T00:00:00",
+    "category": "Dining"
+  }
+]
