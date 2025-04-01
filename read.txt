@@ -1,0 +1,275 @@
+so for this file sample_transactions.json the output is 
+({
+  "top_archetype": "Balanced Spender",
+  "confidence": 0.3872,
+  "explanation": "Your spending is well-distributed across categories. A versatile, all-rounder credit card could be ideal.",
+  "tags": [
+    "balanced",
+    "steady"
+  ],
+  "score_breakdown": {
+    "Foodie & Entertainment Spender": 0.09373481762023658,
+    "Retail Therapy Lover": 3.7666757891757485,
+    "Premium Spender": 2.2672707905332037,
+    "Travel Enthusiast": 0.0,
+    "Balanced Spender": 3.872318602670811,
+    "Debt-Focused/Credit-Builder": 0.0,
+    "Budget-Focused Saver": 0.0,
+    "Subscription Enthusiast": 0.0
+  },
+  "ranked_scores": [
+    {
+      "archetype": "Balanced Spender",
+      "score": 3.872318602670811
+    },
+    {
+      "archetype": "Retail Therapy Lover",
+      "score": 3.7666757891757485
+    },
+    {
+      "archetype": "Premium Spender",
+      "score": 2.2672707905332037
+    },
+    {
+      "archetype": "Foodie & Entertainment Spender",
+      "score": 0.09373481762023658
+    },
+    {
+      "archetype": "Travel Enthusiast",
+      "score": 0.0
+    },
+    {
+      "archetype": "Debt-Focused/Credit-Builder",
+      "score": 0.0
+    },
+    {
+      "archetype": "Budget-Focused Saver",
+      "score": 0.0
+    },
+    {
+      "archetype": "Subscription Enthusiast",
+      "score": 0.0
+    }
+  ]
+})
+
+for this file sample_.json the output is 
+({{
+  "top_archetype": "Balanced Spender",
+  "confidence": 0.4005,
+  "explanation": "Your spending is well-distributed across categories. A versatile, all-rounder credit card could be ideal.",
+  "tags": [
+    "balanced",
+    "steady"
+  ],
+  "score_breakdown": {
+    "Foodie & Entertainment Spender": 0.025849786373670792,
+    "Retail Therapy Lover": 2.974607246062954,
+    "Premium Spender": 2.994122122868692,
+    "Travel Enthusiast": 0.0,
+    "Balanced Spender": 4.005420844694683,
+    "Debt-Focused/Credit-Builder": 0.0,
+    "Budget-Focused Saver": 0.0,
+    "Subscription Enthusiast": 0.0
+  },
+  "ranked_scores": [
+    {
+      "archetype": "Balanced Spender",
+      "score": 4.005420844694683
+    },
+    {
+      "archetype": "Premium Spender",
+      "score": 2.994122122868692
+    },
+    {
+      "archetype": "Retail Therapy Lover",
+      "score": 2.974607246062954
+    },
+    {
+      "archetype": "Foodie & Entertainment Spender",
+      "score": 0.025849786373670792
+    },
+    {
+      "archetype": "Travel Enthusiast",
+      "score": 0.0
+    },
+    {
+      "archetype": "Debt-Focused/Credit-Builder",
+      "score": 0.0
+    },
+    {
+      "archetype": "Budget-Focused Saver",
+      "score": 0.0
+    },
+    {
+      "archetype": "Subscription Enthusiast",
+      "score": 0.0
+    }
+  ]
+})
+
+for this file sample_balanced_user.json
+({
+  "top_archetype": "Balanced Spender",
+  "confidence": 0.4714,
+  "explanation": "Your spending is well-distributed across categories. A versatile, all-rounder credit card could be ideal.",
+  "tags": [
+    "balanced",
+    "steady"
+  ],
+  "score_breakdown": {
+    "Foodie & Entertainment Spender": 0.06393216069651113,
+    "Retail Therapy Lover": 2.257747430744476,
+    "Premium Spender": 2.9639360210671244,
+    "Travel Enthusiast": 0.0,
+    "Balanced Spender": 4.714384387491888,
+    "Debt-Focused/Credit-Builder": 0.0,
+    "Budget-Focused Saver": 0.0,
+    "Subscription Enthusiast": 0.0
+  },
+  "ranked_scores": [
+    {
+      "archetype": "Balanced Spender",
+      "score": 4.714384387491888
+    },
+    {
+      "archetype": "Premium Spender",
+      "score": 2.9639360210671244
+    },
+    {
+      "archetype": "Retail Therapy Lover",
+      "score": 2.257747430744476
+    },
+    {
+      "archetype": "Foodie & Entertainment Spender",
+      "score": 0.06393216069651113
+    },
+    {
+      "archetype": "Travel Enthusiast",
+      "score": 0.0
+    },
+    {
+      "archetype": "Debt-Focused/Credit-Builder",
+      "score": 0.0
+    },
+    {
+      "archetype": "Budget-Focused Saver",
+      "score": 0.0
+    },
+    {
+      "archetype": "Subscription Enthusiast",
+      "score": 0.0
+    }
+  ]
+})
+
+for this file sample_foodie_entertainment_user.json the output is 
+
+{
+  "top_archetype": "Balanced Spender",
+  "confidence": 0.4306,
+  "explanation": "Your spending is well-distributed across categories. A versatile, all-rounder credit card could be ideal.",
+  "tags": [
+    "balanced",
+    "steady"
+  ],
+  "score_breakdown": {
+    "Foodie & Entertainment Spender": 0.10470498478044174,
+    "Retail Therapy Lover": 3.2353941437552756,
+    "Premium Spender": 2.3540004229844973,
+    "Travel Enthusiast": 0.0,
+    "Balanced Spender": 4.305900448479785,
+    "Debt-Focused/Credit-Builder": 0.0,
+    "Budget-Focused Saver": 0.0,
+    "Subscription Enthusiast": 0.0
+  },
+  "ranked_scores": [
+    {
+      "archetype": "Balanced Spender",
+      "score": 4.305900448479785
+    },
+    {
+      "archetype": "Retail Therapy Lover",
+      "score": 3.2353941437552756
+    },
+    {
+      "archetype": "Premium Spender",
+      "score": 2.3540004229844973
+    },
+    {
+      "archetype": "Foodie & Entertainment Spender",
+      "score": 0.10470498478044174
+    },
+    {
+      "archetype": "Travel Enthusiast",
+      "score": 0.0
+    },
+    {
+      "archetype": "Debt-Focused/Credit-Builder",
+      "score": 0.0
+    },
+    {
+      "archetype": "Budget-Focused Saver",
+      "score": 0.0
+    },
+    {
+      "archetype": "Subscription Enthusiast",
+      "score": 0.0
+    }
+  ]
+}
+
+for this file sample_test_retail_balanced.json
+{
+  "top_archetype": "Balanced Spender",
+  "confidence": 0.4098,
+  "explanation": "Your spending is well-distributed across categories. A versatile, all-rounder credit card could be ideal.",
+  "tags": [
+    "balanced",
+    "steady"
+  ],
+  "score_breakdown": {
+    "Foodie & Entertainment Spender": 0.027556873126980984,
+    "Retail Therapy Lover": 3.5037225704261585,
+    "Premium Spender": 2.3709951353587164,
+    "Travel Enthusiast": 0.0,
+    "Balanced Spender": 4.0977254210881435,
+    "Debt-Focused/Credit-Builder": 0.0,
+    "Budget-Focused Saver": 0.0,
+    "Subscription Enthusiast": 0.0
+  },
+  "ranked_scores": [
+    {
+      "archetype": "Balanced Spender",
+      "score": 4.0977254210881435
+    },
+    {
+      "archetype": "Retail Therapy Lover",
+      "score": 3.5037225704261585
+    },
+    {
+      "archetype": "Premium Spender",
+      "score": 2.3709951353587164
+    },
+    {
+      "archetype": "Foodie & Entertainment Spender",
+      "score": 0.027556873126980984
+    },
+    {
+      "archetype": "Travel Enthusiast",
+      "score": 0.0
+    },
+    {
+      "archetype": "Debt-Focused/Credit-Builder",
+      "score": 0.0
+    },
+    {
+      "archetype": "Budget-Focused Saver",
+      "score": 0.0
+    },
+    {
+      "archetype": "Subscription Enthusiast",
+      "score": 0.0
+    }
+  ]
+}
