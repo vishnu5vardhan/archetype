@@ -7,7 +7,7 @@ from archetype_engine.archetype_explanations import ARCHETYPE_EXPLANATIONS, ARCH
 
 
 # File containing parsed transaction data (from SMS or test JSON)
-DATA_FILE = "/Users/vishn/financial-archetype-engine/archetype_engine/sample456.json"  # Change to your desired test file name
+DATA_FILE = "/Users/vishn/financial-archetype-engine/archetype_engine/sample123r.json"  # Change to your desired test file name
 
 # Ensure the file exists
 if not os.path.exists(DATA_FILE):

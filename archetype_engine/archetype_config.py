@@ -1,8 +1,7 @@
 # archetype_config.py
 
-# Thresholds for normalizing each metric.
 ARCHETYPE_THRESHOLDS = {
-    "dining_ratio": 0.15,                 # Lowered threshold for Foodie
+    "dining_ratio": 0.15,
     "entertainment_ratio": 0.10,
     "total_discretionary_ratio": 0.40,
     "dining_txn_count": 5,
@@ -18,10 +17,10 @@ ARCHETYPE_THRESHOLDS = {
     "subscription_ratio": 0.05,
     "unique_subscriptions": 3,
     "subscription_frequency": 3,
-    "travel_ratio": 0.10,
-    "travel_txn_frequency": 2,
-    "avg_travel_value": 5000,
-    "category_variance": 0.10,            # Higher is worse; lower variance indicates balanced spending
+    "travel_ratio": 0.20,          # Increased threshold so that high travel spend (above 20%) yields full points.
+    "travel_txn_frequency": 0.10,  # Expressed as fraction of transactions (e.g., 10% of txns)
+    "avg_travel_value": 10000,     # Adjusted threshold for high travel-value transactions.
+    "category_variance": 0.10,
     "number_of_categories": 5,
     "discretionary_to_essentials_ratio": 0.8,
     "income_proxy": 500000,
@@ -31,10 +30,9 @@ ARCHETYPE_THRESHOLDS = {
     "high_value_txn_count": 2
 }
 
-# Weights for each metric per archetype.
 ARCHETYPE_METRIC_WEIGHTS = {
     "Foodie & Entertainment Spender": {
-        "dining_ratio": 4.0,               # Increased weight for dining_ratio
+        "dining_ratio": 4.0,
         "entertainment_ratio": 1.5,
         "total_discretionary_ratio": 2.0,
         "dining_txn_count": 1.0
@@ -54,7 +52,7 @@ ARCHETYPE_METRIC_WEIGHTS = {
     "Budget-Focused Saver": {
         "savings_rate": 3.0,
         "low_discretionary_ratio": 2.0,
-        "average_discretionary_value": 1.0  # Lower discretionary value is better.
+        "average_discretionary_value": 1.0
     },
     "Subscription Enthusiast": {
         "subscription_ratio": 3.0,
@@ -62,23 +60,22 @@ ARCHETYPE_METRIC_WEIGHTS = {
         "subscription_frequency": 1.0
     },
     "Travel Enthusiast": {
-        "travel_ratio": 3.0,
-        "travel_txn_frequency": 2.0,
-        "avg_travel_value": 1.5
+        "travel_ratio": 4.0,         # Increased weight for travel_ratio
+        "travel_txn_frequency": 3.0,   # Boost travel transaction frequency
+        "avg_travel_value": 2.0        # Boost average travel transaction value
     },
     "Balanced Spender": {
-        "category_variance": -1.0,         # Negative: lower variance is better.
+        "category_variance": -1.0,
         "number_of_categories": 1.0,
         "discretionary_to_essentials_ratio": 0.5
     },
     "Premium Spender": {
-        "income_proxy": 1.5,
-        "avg_transaction_value": 1.5,
-        "premium_spend_ratio": 1.0,
+        "income_proxy": 1.0,         # Reduced weight so high income doesn't dominate
+        "avg_transaction_value": 1.0,
+        "premium_spend_ratio": 0.8,    # Slightly reduced weight for premium spend ratio
         "luxury_purchase_count": 1.0,
         "high_value_txn_count": 1.0
     }
 }
 
-# Fallback archetype.
 FALLBACK_ARCHETYPE = "Balanced Spender"
