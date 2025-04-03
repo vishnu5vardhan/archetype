@@ -1,0 +1,590 @@
+[
+  {
+    "amount": 50000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-03-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartments",
+    "date_time": "2024-03-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 950,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-03-03T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 2500,
+    "transaction_type": "debit",
+    "merchant_name": "Fine Dining Restaurant",
+    "date_time": "2024-03-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1800,
+    "transaction_type": "debit",
+    "merchant_name": "Cocktail Bar",
+    "date_time": "2024-03-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3200,
+    "transaction_type": "debit",
+    "merchant_name": "Concert Tickets",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1500,
+    "transaction_type": "debit",
+    "merchant_name": "Tapas Restaurant",
+    "date_time": "2024-03-06T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3000,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-03-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 2800,
+    "transaction_type": "debit",
+    "merchant_name": "Movie Theater VIP",
+    "date_time": "2024-03-08T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2300,
+    "transaction_type": "debit",
+    "merchant_name": "Sushi Restaurant",
+    "date_time": "2024-03-09T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Wine Bar",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 950,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-03-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1500,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-03-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 2800,
+    "transaction_type": "debit",
+    "merchant_name": "Comedy Club",
+    "date_time": "2024-03-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2100,
+    "transaction_type": "debit",
+    "merchant_name": "Italian Restaurant",
+    "date_time": "2024-03-14T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-03-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 4500,
+    "transaction_type": "debit",
+    "merchant_name": "Festival Tickets",
+    "date_time": "2024-03-16T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1800,
+    "transaction_type": "debit",
+    "merchant_name": "Brunch Place",
+    "date_time": "2024-03-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1600,
+    "transaction_type": "debit",
+    "merchant_name": "Bar & Grill",
+    "date_time": "2024-03-18T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3500,
+    "transaction_type": "debit",
+    "merchant_name": "Theater Tickets",
+    "date_time": "2024-03-19T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-03-20T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 50000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-04-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartments",
+    "date_time": "2024-04-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 980,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-04-03T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 2700,
+    "transaction_type": "debit",
+    "merchant_name": "Steakhouse",
+    "date_time": "2024-04-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1900,
+    "transaction_type": "debit",
+    "merchant_name": "Rooftop Bar",
+    "date_time": "2024-04-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3400,
+    "transaction_type": "debit",
+    "merchant_name": "Music Festival",
+    "date_time": "2024-04-05T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1600,
+    "transaction_type": "debit",
+    "merchant_name": "Seafood Restaurant",
+    "date_time": "2024-04-06T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2800,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-04-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 2600,
+    "transaction_type": "debit",
+    "merchant_name": "Movie Theater",
+    "date_time": "2024-04-08T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2500,
+    "transaction_type": "debit",
+    "merchant_name": "Fusion Restaurant",
+    "date_time": "2024-04-09T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1400,
+    "transaction_type": "debit",
+    "merchant_name": "Craft Beer Bar",
+    "date_time": "2024-04-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1050,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-04-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1700,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-04-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 3000,
+    "transaction_type": "debit",
+    "merchant_name": "Theme Park",
+    "date_time": "2024-04-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2200,
+    "transaction_type": "debit",
+    "merchant_name": "French Restaurant",
+    "date_time": "2024-04-14T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 400,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-04-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 4800,
+    "transaction_type": "debit",
+    "merchant_name": "Concert Tickets",
+    "date_time": "2024-04-16T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1900,
+    "transaction_type": "debit",
+    "merchant_name": "Brunch Place",
+    "date_time": "2024-04-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1700,
+    "transaction_type": "debit",
+    "merchant_name": "Gastropub",
+    "date_time": "2024-04-18T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3800,
+    "transaction_type": "debit",
+    "merchant_name": "Sports Event",
+    "date_time": "2024-04-19T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-04-20T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 50000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-05-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartments",
+    "date_time": "2024-05-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 970,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-05-03T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 2800,
+    "transaction_type": "debit",
+    "merchant_name": "Gourmet Restaurant",
+    "date_time": "2024-05-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1950,
+    "transaction_type": "debit",
+    "merchant_name": "Cocktail Lounge",
+    "date_time": "2024-05-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3600,
+    "transaction_type": "debit",
+    "merchant_name": "Live Music Venue",
+    "date_time": "2024-05-05T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1650,
+    "transaction_type": "debit",
+    "merchant_name": "Thai Restaurant",
+    "date_time": "2024-05-06T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2900,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-05-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 2500,
+    "transaction_type": "debit",
+    "merchant_name": "Movie Marathon",
+    "date_time": "2024-05-08T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2600,
+    "transaction_type": "debit",
+    "merchant_name": "Mexican Restaurant",
+    "date_time": "2024-05-09T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1500,
+    "transaction_type": "debit",
+    "merchant_name": "Jazz Bar",
+    "date_time": "2024-05-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1100,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-05-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1800,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-05-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 3200,
+    "transaction_type": "debit",
+    "merchant_name": "Bowling and Arcade",
+    "date_time": "2024-05-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2300,
+    "transaction_type": "debit",
+    "merchant_name": "Greek Restaurant",
+    "date_time": "2024-05-14T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 500,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-05-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Theater Show",
+    "date_time": "2024-05-16T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2000,
+    "transaction_type": "debit",
+    "merchant_name": "Brunch Place",
+    "date_time": "2024-05-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1800,
+    "transaction_type": "debit",
+    "merchant_name": "Tapas Bar",
+    "date_time": "2024-05-18T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4000,
+    "transaction_type": "debit",
+    "merchant_name": "Comedy Show",
+    "date_time": "2024-05-19T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-05-20T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 50000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-06-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartments",
+    "date_time": "2024-06-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 990,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-06-03T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 2900,
+    "transaction_type": "debit",
+    "merchant_name": "Fine Dining Restaurant",
+    "date_time": "2024-06-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2000,
+    "transaction_type": "debit",
+    "merchant_name": "Wine Bar",
+    "date_time": "2024-06-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3800,
+    "transaction_type": "debit",
+    "merchant_name": "Music Concert",
+    "date_time": "2024-06-05T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 1700,
+    "transaction_type": "debit",
+    "merchant_name": "Indian Restaurant",
+    "date_time": "2024-06-06T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2950,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-06-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 2700,
+    "transaction_type": "debit",
+    "merchant_name": "Film Festival",
+    "date_time": "2024-06-08T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2750,
+    "transaction_type": "debit",
+    "merchant_name": "Spanish Restaurant",
+    "date_time": "2024-06-09T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1600,
+    "transaction_type": "debit",
+    "merchant_name": "Speakeasy Bar",
+    "date_time": "2024-06-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1150,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-06-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1900,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-06-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 3400,
+    "transaction_type": "debit",
+    "merchant_name": "Escape Room",
+    "date_time": "2024-06-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2400,
+    "transaction_type": "debit",
+    "merchant_name": "Bistro Restaurant",
+    "date_time": "2024-06-14T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 600,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-06-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5200,
+    "transaction_type": "debit",
+    "merchant_name": "Broadway Show",
+    "date_time": "2024-06-16T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 2100,
+    "transaction_type": "debit",
+    "merchant_name": "Brunch Place",
+    "date_time": "2024-06-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1900,
+    "transaction_type": "debit",
+    "merchant_name": "Brewpub",
+    "date_time": "2024-06-18T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4200,
+    "transaction_type": "debit",
+    "merchant_name": "Amusement Park",
+    "date_time": "2024-06-19T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-06-20T00:00:00",
+    "category": "Utilities"
+  }
+] 

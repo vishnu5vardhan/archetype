@@ -1,0 +1,562 @@
+[
+  {
+    "amount": 55000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-03-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 7500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-03-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Designer Clothing Store",
+    "date_time": "2024-03-03T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 850,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-03-04T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3200,
+    "transaction_type": "debit",
+    "merchant_name": "Premium Footwear",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 2800,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-03-06T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 4500,
+    "transaction_type": "debit",
+    "merchant_name": "Electronics Store",
+    "date_time": "2024-03-07T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 800,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-03-08T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 2800,
+    "transaction_type": "debit",
+    "merchant_name": "Cosmetics Store",
+    "date_time": "2024-03-09T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Home Decor",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 650,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-03-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3600,
+    "transaction_type": "debit",
+    "merchant_name": "Fashion Outlet",
+    "date_time": "2024-03-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 750,
+    "transaction_type": "debit",
+    "merchant_name": "Movie Theater",
+    "date_time": "2024-03-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 5800,
+    "transaction_type": "debit",
+    "merchant_name": "Jewelry Store",
+    "date_time": "2024-03-14T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1000,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-03-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 2200,
+    "transaction_type": "debit",
+    "merchant_name": "Online Marketplace",
+    "date_time": "2024-03-16T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 900,
+    "transaction_type": "debit",
+    "merchant_name": "Italian Restaurant",
+    "date_time": "2024-03-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4200,
+    "transaction_type": "debit",
+    "merchant_name": "Department Store",
+    "date_time": "2024-03-18T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-03-19T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3900,
+    "transaction_type": "debit",
+    "merchant_name": "Sportswear Store",
+    "date_time": "2024-03-20T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 55000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-04-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 7500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-04-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 4800,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Boutique",
+    "date_time": "2024-04-03T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 870,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-04-04T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3500,
+    "transaction_type": "debit",
+    "merchant_name": "Designer Shoes",
+    "date_time": "2024-04-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 2900,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-04-06T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 4800,
+    "transaction_type": "debit",
+    "merchant_name": "Tech Store",
+    "date_time": "2024-04-07T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 850,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-04-08T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3200,
+    "transaction_type": "debit",
+    "merchant_name": "Beauty Store",
+    "date_time": "2024-04-09T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1400,
+    "transaction_type": "debit",
+    "merchant_name": "Home Furnishings",
+    "date_time": "2024-04-10T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 700,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-04-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3900,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Brand",
+    "date_time": "2024-04-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 800,
+    "transaction_type": "debit",
+    "merchant_name": "Movie Theater",
+    "date_time": "2024-04-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 6200,
+    "transaction_type": "debit",
+    "merchant_name": "Watch Store",
+    "date_time": "2024-04-14T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-04-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 2500,
+    "transaction_type": "debit",
+    "merchant_name": "Online Marketplace",
+    "date_time": "2024-04-16T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 950,
+    "transaction_type": "debit",
+    "merchant_name": "Italian Restaurant",
+    "date_time": "2024-04-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4500,
+    "transaction_type": "debit",
+    "merchant_name": "Department Store",
+    "date_time": "2024-04-18T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-04-19T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 4100,
+    "transaction_type": "debit",
+    "merchant_name": "Activewear Store",
+    "date_time": "2024-04-20T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 55000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-05-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 7500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-05-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 5200,
+    "transaction_type": "debit",
+    "merchant_name": "Designer Clothing",
+    "date_time": "2024-05-03T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 890,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-05-04T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3700,
+    "transaction_type": "debit",
+    "merchant_name": "Shoe Boutique",
+    "date_time": "2024-05-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 3000,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-05-06T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Electronics Store",
+    "date_time": "2024-05-07T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 900,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-05-08T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3500,
+    "transaction_type": "debit",
+    "merchant_name": "Skincare Products",
+    "date_time": "2024-05-09T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1600,
+    "transaction_type": "debit",
+    "merchant_name": "Home Decor",
+    "date_time": "2024-05-10T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 750,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-05-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4200,
+    "transaction_type": "debit",
+    "merchant_name": "Fashion Outlet",
+    "date_time": "2024-05-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 850,
+    "transaction_type": "debit",
+    "merchant_name": "Movie Theater",
+    "date_time": "2024-05-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 6500,
+    "transaction_type": "debit",
+    "merchant_name": "Jewelry Store",
+    "date_time": "2024-05-14T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1400,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-05-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 2700,
+    "transaction_type": "debit",
+    "merchant_name": "Online Marketplace",
+    "date_time": "2024-05-16T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1000,
+    "transaction_type": "debit",
+    "merchant_name": "Italian Restaurant",
+    "date_time": "2024-05-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4700,
+    "transaction_type": "debit",
+    "merchant_name": "Department Store",
+    "date_time": "2024-05-18T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-05-19T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 4300,
+    "transaction_type": "debit",
+    "merchant_name": "Sportswear Store",
+    "date_time": "2024-05-20T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 55000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-06-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 7500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-06-02T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 5500,
+    "transaction_type": "debit",
+    "merchant_name": "Designer Store",
+    "date_time": "2024-06-03T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 900,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-06-04T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3900,
+    "transaction_type": "debit",
+    "merchant_name": "Shoe Collection",
+    "date_time": "2024-06-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 3100,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-06-06T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 5200,
+    "transaction_type": "debit",
+    "merchant_name": "Tech Gadgets",
+    "date_time": "2024-06-07T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 950,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-06-08T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 3700,
+    "transaction_type": "debit",
+    "merchant_name": "Cosmetics Store",
+    "date_time": "2024-06-09T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1800,
+    "transaction_type": "debit",
+    "merchant_name": "Furniture Store",
+    "date_time": "2024-06-10T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 800,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-06-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4500,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Brand",
+    "date_time": "2024-06-12T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 900,
+    "transaction_type": "debit",
+    "merchant_name": "Movie Theater",
+    "date_time": "2024-06-13T00:00:00",
+    "category": "Entertainment"
+  },
+  {
+    "amount": 6800,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Accessories",
+    "date_time": "2024-06-14T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1500,
+    "transaction_type": "debit",
+    "merchant_name": "Savings Account",
+    "date_time": "2024-06-15T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 2900,
+    "transaction_type": "debit",
+    "merchant_name": "Online Marketplace",
+    "date_time": "2024-06-16T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 1050,
+    "transaction_type": "debit",
+    "merchant_name": "Italian Restaurant",
+    "date_time": "2024-06-17T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 4900,
+    "transaction_type": "debit",
+    "merchant_name": "Department Store",
+    "date_time": "2024-06-18T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-06-19T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 4500,
+    "transaction_type": "debit",
+    "merchant_name": "Athletic Apparel",
+    "date_time": "2024-06-20T00:00:00",
+    "category": "Shopping"
+  }
+] 

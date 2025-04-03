@@ -1,0 +1,58 @@
+{
+  "top_archetype": "Subscription Enthusiast",
+  "confidence": 1.0,
+  "explanation": "You have a high volume of recurring subscriptions. Look for cards that offer rewards on subscriptions.",
+  "tags": [
+    "subscriber",
+    "tech-savvy"
+  ],
+  "score_breakdown": {
+    "Foodie & Entertainment Spender": 0.03,
+    "Retail Therapy Lover": 0.03,
+    "Premium Spender": 0.03,
+    "Travel Enthusiast": 0.03,
+    "Debt-Focused/Credit-Builder": 0.03,
+    "Budget-Focused Saver": 2.22,
+    "Subscription Enthusiast": 4.36,
+    "Balanced Spender": 3.27
+  },
+  "ranked_scores": [
+    {
+      "archetype": "Subscription Enthusiast",
+      "score": 4.36
+    },
+    {
+      "archetype": "Balanced Spender",
+      "score": 3.27
+    },
+    {
+      "archetype": "Budget-Focused Saver",
+      "score": 2.22
+    },
+    {
+      "archetype": "Foodie & Entertainment Spender",
+      "score": 0.03
+    },
+    {
+      "archetype": "Retail Therapy Lover",
+      "score": 0.03
+    },
+    {
+      "archetype": "Premium Spender",
+      "score": 0.03
+    },
+    {
+      "archetype": "Travel Enthusiast",
+      "score": 0.03
+    },
+    {
+      "archetype": "Debt-Focused/Credit-Builder",
+      "score": 0.03
+    }
+  ],
+  "composite_archetypes": {
+    "Premium Foodie": 0.03,
+    "Travel Foodie": 0.03,
+    "Digital Minimalist": 3.62
+  }
+}

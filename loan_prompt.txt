@@ -1,0 +1,38 @@
+Task: Recommend up to 3 best loan options based on the following information.
+
+**User Persona:**
+- Persona Label: N/A
+- Spending Ratios: 
+- Savings Rate: N/A%
+- Risk Category: N/A
+
+**User Stated Need:**
+- Loan Purpose: I need a loan for home renovation.
+- Preferred Features: Low Fees, Fixed Interest Rate, Reputable Lender
+
+**Available Loan Products:**
+Product 1:
+  - Lender Name: ABC Bank
+  - Product Name: Smart Home Loan
+  - Loan Type: Home Improvement
+  - APR Range: 9% - 11%
+  - Fees: Processing Fee: ₹999
+  - Features: Fixed Interest Rate, Flexible Tenure
+  - Reputability: High
+  - Other Details: Available to salaried and self-employed
+
+Product 2:
+  - Lender Name: XYZ Finance
+  - Product Name: RenovatePlus Loan
+  - Loan Type: Home Renovation
+  - APR Range: 8.5% - 10%
+  - Fees: Processing Fee: ₹799, Prepayment charges apply
+  - Features: Low Processing Fee, No Prepayment Penalty
+  - Reputability: Medium
+  - Other Details: Quick approval for renovation projects
+
+
+**Instructions to GPT:**
+1. Analyze the persona and stated need.
+2. Match loan products that best fit the user's profile.
+3. Provide a numbered list of recommendations with explanations.

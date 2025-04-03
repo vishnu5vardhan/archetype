@@ -1,0 +1,562 @@
+[
+  {
+    "amount": 300000,
+    "transaction_type": "credit",
+    "merchant_name": "Executive Salary",
+    "date_time": "2024-03-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 50000,
+    "transaction_type": "credit",
+    "merchant_name": "Investment Dividend",
+    "date_time": "2024-03-02T00:00:00",
+    "category": "Investment"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartment Rent",
+    "date_time": "2024-03-03T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 25000,
+    "transaction_type": "debit",
+    "merchant_name": "Fine Dining Restaurant",
+    "date_time": "2024-03-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 45000,
+    "transaction_type": "debit",
+    "merchant_name": "Designer Boutique",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 75000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Watch Store",
+    "date_time": "2024-03-06T00:00:00",
+    "category": "Jewelry"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "High-End Electronics",
+    "date_time": "2024-03-07T00:00:00",
+    "category": "Electronics"
+  },
+  {
+    "amount": 15000,
+    "transaction_type": "debit",
+    "merchant_name": "Premium Groceries",
+    "date_time": "2024-03-08T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 60000,
+    "transaction_type": "debit",
+    "merchant_name": "First Class Airfare",
+    "date_time": "2024-03-09T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 42000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Hotel",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 18000,
+    "transaction_type": "debit",
+    "merchant_name": "Five Star Restaurant",
+    "date_time": "2024-03-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 22000,
+    "transaction_type": "debit",
+    "merchant_name": "Premium Spa",
+    "date_time": "2024-03-12T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 30000,
+    "transaction_type": "debit",
+    "merchant_name": "Financial Advisor",
+    "date_time": "2024-03-13T00:00:00",
+    "category": "Financial Services"
+  },
+  {
+    "amount": 55000,
+    "transaction_type": "debit",
+    "merchant_name": "Charity Gala",
+    "date_time": "2024-03-14T00:00:00",
+    "category": "Charity"
+  },
+  {
+    "amount": 12000,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Premium",
+    "date_time": "2024-03-15T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 40000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Car Service",
+    "date_time": "2024-03-16T00:00:00",
+    "category": "Auto"
+  },
+  {
+    "amount": 28000,
+    "transaction_type": "debit",
+    "merchant_name": "Executive Health Club",
+    "date_time": "2024-03-17T00:00:00",
+    "category": "Fitness"
+  },
+  {
+    "amount": 32000,
+    "transaction_type": "debit",
+    "merchant_name": "Art Gallery",
+    "date_time": "2024-03-18T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 50000,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Investment",
+    "date_time": "2024-03-19T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 85000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Yacht Club",
+    "date_time": "2024-03-20T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 300000,
+    "transaction_type": "credit",
+    "merchant_name": "Executive Salary",
+    "date_time": "2024-04-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 55000,
+    "transaction_type": "credit",
+    "merchant_name": "Investment Dividend",
+    "date_time": "2024-04-02T00:00:00",
+    "category": "Investment"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartment Rent",
+    "date_time": "2024-04-03T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 28000,
+    "transaction_type": "debit",
+    "merchant_name": "Michelin Star Restaurant",
+    "date_time": "2024-04-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 48000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Fashion Retailer",
+    "date_time": "2024-04-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 95000,
+    "transaction_type": "debit",
+    "merchant_name": "Premium Jewelry",
+    "date_time": "2024-04-06T00:00:00",
+    "category": "Jewelry"
+  },
+  {
+    "amount": 38000,
+    "transaction_type": "debit",
+    "merchant_name": "High-End Gadgets",
+    "date_time": "2024-04-07T00:00:00",
+    "category": "Electronics"
+  },
+  {
+    "amount": 16000,
+    "transaction_type": "debit",
+    "merchant_name": "Gourmet Market",
+    "date_time": "2024-04-08T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "debit",
+    "merchant_name": "Business Class Travel",
+    "date_time": "2024-04-09T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 45000,
+    "transaction_type": "debit",
+    "merchant_name": "Five Star Resort",
+    "date_time": "2024-04-10T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 20000,
+    "transaction_type": "debit",
+    "merchant_name": "Celebrity Chef Restaurant",
+    "date_time": "2024-04-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 25000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Wellness Center",
+    "date_time": "2024-04-12T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 32000,
+    "transaction_type": "debit",
+    "merchant_name": "Wealth Management",
+    "date_time": "2024-04-13T00:00:00",
+    "category": "Financial Services"
+  },
+  {
+    "amount": 60000,
+    "transaction_type": "debit",
+    "merchant_name": "Fundraiser Event",
+    "date_time": "2024-04-14T00:00:00",
+    "category": "Charity"
+  },
+  {
+    "amount": 13000,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Premium",
+    "date_time": "2024-04-15T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 42000,
+    "transaction_type": "debit",
+    "merchant_name": "Premium Car Maintenance",
+    "date_time": "2024-04-16T00:00:00",
+    "category": "Auto"
+  },
+  {
+    "amount": 30000,
+    "transaction_type": "debit",
+    "merchant_name": "Private Fitness Club",
+    "date_time": "2024-04-17T00:00:00",
+    "category": "Fitness"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "Auction House",
+    "date_time": "2024-04-18T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 55000,
+    "transaction_type": "debit",
+    "merchant_name": "Investment Account",
+    "date_time": "2024-04-19T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 90000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Vacation Rental",
+    "date_time": "2024-04-20T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 300000,
+    "transaction_type": "credit",
+    "merchant_name": "Executive Salary",
+    "date_time": "2024-05-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 60000,
+    "transaction_type": "credit",
+    "merchant_name": "Investment Dividend",
+    "date_time": "2024-05-02T00:00:00",
+    "category": "Investment"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartment Rent",
+    "date_time": "2024-05-03T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 30000,
+    "transaction_type": "debit",
+    "merchant_name": "Exclusive Restaurant",
+    "date_time": "2024-05-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 50000,
+    "transaction_type": "debit",
+    "merchant_name": "Designer Showroom",
+    "date_time": "2024-05-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 85000,
+    "transaction_type": "debit",
+    "merchant_name": "Fine Jewelry",
+    "date_time": "2024-05-06T00:00:00",
+    "category": "Jewelry"
+  },
+  {
+    "amount": 40000,
+    "transaction_type": "debit",
+    "merchant_name": "Premium Tech Store",
+    "date_time": "2024-05-07T00:00:00",
+    "category": "Electronics"
+  },
+  {
+    "amount": 17000,
+    "transaction_type": "debit",
+    "merchant_name": "Specialty Food Market",
+    "date_time": "2024-05-08T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 70000,
+    "transaction_type": "debit",
+    "merchant_name": "Private Jet Charter",
+    "date_time": "2024-05-09T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 48000,
+    "transaction_type": "debit",
+    "merchant_name": "Boutique Hotel",
+    "date_time": "2024-05-10T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 22000,
+    "transaction_type": "debit",
+    "merchant_name": "Gourmet Dining",
+    "date_time": "2024-05-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 27000,
+    "transaction_type": "debit",
+    "merchant_name": "Resort Spa",
+    "date_time": "2024-05-12T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "Personal Financial Planner",
+    "date_time": "2024-05-13T00:00:00",
+    "category": "Financial Services"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "debit",
+    "merchant_name": "Charity Foundation",
+    "date_time": "2024-05-14T00:00:00",
+    "category": "Charity"
+  },
+  {
+    "amount": 14000,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Premium",
+    "date_time": "2024-05-15T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 45000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Auto Dealer",
+    "date_time": "2024-05-16T00:00:00",
+    "category": "Auto"
+  },
+  {
+    "amount": 32000,
+    "transaction_type": "debit",
+    "merchant_name": "Personal Trainer",
+    "date_time": "2024-05-17T00:00:00",
+    "category": "Fitness"
+  },
+  {
+    "amount": 38000,
+    "transaction_type": "debit",
+    "merchant_name": "Fine Art Purchase",
+    "date_time": "2024-05-18T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 60000,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Fund",
+    "date_time": "2024-05-19T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 95000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Cruise Booking",
+    "date_time": "2024-05-20T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 300000,
+    "transaction_type": "credit",
+    "merchant_name": "Executive Salary",
+    "date_time": "2024-06-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "credit",
+    "merchant_name": "Investment Dividend",
+    "date_time": "2024-06-02T00:00:00",
+    "category": "Investment"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Apartment Rent",
+    "date_time": "2024-06-03T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 32000,
+    "transaction_type": "debit",
+    "merchant_name": "High-End Restaurant",
+    "date_time": "2024-06-04T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 52000,
+    "transaction_type": "debit",
+    "merchant_name": "Premium Fashion",
+    "date_time": "2024-06-05T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 90000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Accessory",
+    "date_time": "2024-06-06T00:00:00",
+    "category": "Jewelry"
+  },
+  {
+    "amount": 42000,
+    "transaction_type": "debit",
+    "merchant_name": "Flagship Electronics",
+    "date_time": "2024-06-07T00:00:00",
+    "category": "Electronics"
+  },
+  {
+    "amount": 18000,
+    "transaction_type": "debit",
+    "merchant_name": "Artisanal Food Market",
+    "date_time": "2024-06-08T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 75000,
+    "transaction_type": "debit",
+    "merchant_name": "Business Travel Service",
+    "date_time": "2024-06-09T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 50000,
+    "transaction_type": "debit",
+    "merchant_name": "Exclusive Resort",
+    "date_time": "2024-06-10T00:00:00",
+    "category": "Travel"
+  },
+  {
+    "amount": 25000,
+    "transaction_type": "debit",
+    "merchant_name": "Fine Dining",
+    "date_time": "2024-06-11T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 30000,
+    "transaction_type": "debit",
+    "merchant_name": "Wellness Retreat",
+    "date_time": "2024-06-12T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 38000,
+    "transaction_type": "debit",
+    "merchant_name": "Private Banking",
+    "date_time": "2024-06-13T00:00:00",
+    "category": "Financial Services"
+  },
+  {
+    "amount": 70000,
+    "transaction_type": "debit",
+    "merchant_name": "Charity Event",
+    "date_time": "2024-06-14T00:00:00",
+    "category": "Charity"
+  },
+  {
+    "amount": 15000,
+    "transaction_type": "debit",
+    "merchant_name": "Utilities Premium",
+    "date_time": "2024-06-15T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 48000,
+    "transaction_type": "debit",
+    "merchant_name": "Exotic Car Service",
+    "date_time": "2024-06-16T00:00:00",
+    "category": "Auto"
+  },
+  {
+    "amount": 35000,
+    "transaction_type": "debit",
+    "merchant_name": "Exclusive Gym",
+    "date_time": "2024-06-17T00:00:00",
+    "category": "Fitness"
+  },
+  {
+    "amount": 40000,
+    "transaction_type": "debit",
+    "merchant_name": "Designer Furniture",
+    "date_time": "2024-06-18T00:00:00",
+    "category": "Luxury"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "debit",
+    "merchant_name": "Investment Portfolio",
+    "date_time": "2024-06-19T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 100000,
+    "transaction_type": "debit",
+    "merchant_name": "Luxury Travel Package",
+    "date_time": "2024-06-20T00:00:00",
+    "category": "Travel"
+  }
+] 

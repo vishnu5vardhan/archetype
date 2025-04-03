@@ -1,0 +1,632 @@
+[
+  {
+    "amount": 65000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-03-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 20000,
+    "transaction_type": "debit",
+    "merchant_name": "Fixed Deposit",
+    "date_time": "2024-03-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8000,
+    "transaction_type": "debit",
+    "merchant_name": "Mutual Fund Investment",
+    "date_time": "2024-03-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Fund",
+    "date_time": "2024-03-03T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-03-04T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 950,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 750,
+    "transaction_type": "debit",
+    "merchant_name": "Water & Sewage",
+    "date_time": "2024-03-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Internet Provider",
+    "date_time": "2024-03-06T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3500,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-03-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 580,
+    "transaction_type": "debit",
+    "merchant_name": "Pharmacy",
+    "date_time": "2024-03-08T00:00:00",
+    "category": "Healthcare"
+  },
+  {
+    "amount": 800,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-03-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 250,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-03-12T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-03-15T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 4000,
+    "transaction_type": "debit",
+    "merchant_name": "Emergency Fund",
+    "date_time": "2024-03-16T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-03-17T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-04-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 20000,
+    "transaction_type": "debit",
+    "merchant_name": "Fixed Deposit",
+    "date_time": "2024-04-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8000,
+    "transaction_type": "debit",
+    "merchant_name": "Mutual Fund Investment",
+    "date_time": "2024-04-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Fund",
+    "date_time": "2024-04-03T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-04-04T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 900,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-04-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 750,
+    "transaction_type": "debit",
+    "merchant_name": "Water & Sewage",
+    "date_time": "2024-04-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Internet Provider",
+    "date_time": "2024-04-06T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3200,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-04-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 400,
+    "transaction_type": "debit",
+    "merchant_name": "Pharmacy",
+    "date_time": "2024-04-08T00:00:00",
+    "category": "Healthcare"
+  },
+  {
+    "amount": 600,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-04-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 200,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-04-12T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 900,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-04-15T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 4500,
+    "transaction_type": "debit",
+    "merchant_name": "Emergency Fund",
+    "date_time": "2024-04-16T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-04-17T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-05-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 22000,
+    "transaction_type": "debit",
+    "merchant_name": "Fixed Deposit",
+    "date_time": "2024-05-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 7500,
+    "transaction_type": "debit",
+    "merchant_name": "Mutual Fund Investment",
+    "date_time": "2024-05-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Fund",
+    "date_time": "2024-05-03T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-05-04T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 980,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-05-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 780,
+    "transaction_type": "debit",
+    "merchant_name": "Water & Sewage",
+    "date_time": "2024-05-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Internet Provider",
+    "date_time": "2024-05-06T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3600,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-05-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 450,
+    "transaction_type": "debit",
+    "merchant_name": "Pharmacy",
+    "date_time": "2024-05-08T00:00:00",
+    "category": "Healthcare"
+  },
+  {
+    "amount": 700,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-05-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 220,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-05-12T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 980,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-05-15T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Emergency Fund",
+    "date_time": "2024-05-16T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-05-17T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-06-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 20000,
+    "transaction_type": "debit",
+    "merchant_name": "Fixed Deposit",
+    "date_time": "2024-06-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 9000,
+    "transaction_type": "debit",
+    "merchant_name": "Mutual Fund Investment",
+    "date_time": "2024-06-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Fund",
+    "date_time": "2024-06-03T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-06-04T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 920,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-06-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 760,
+    "transaction_type": "debit",
+    "merchant_name": "Water & Sewage",
+    "date_time": "2024-06-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Internet Provider",
+    "date_time": "2024-06-06T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3400,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-06-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 500,
+    "transaction_type": "debit",
+    "merchant_name": "Pharmacy",
+    "date_time": "2024-06-08T00:00:00",
+    "category": "Healthcare"
+  },
+  {
+    "amount": 650,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-06-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 230,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-06-12T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1000,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-06-15T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 4800,
+    "transaction_type": "debit",
+    "merchant_name": "Emergency Fund",
+    "date_time": "2024-06-16T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-06-17T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 65000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-07-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 22000,
+    "transaction_type": "debit",
+    "merchant_name": "Fixed Deposit",
+    "date_time": "2024-07-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "Mutual Fund Investment",
+    "date_time": "2024-07-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5000,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Fund",
+    "date_time": "2024-07-03T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-07-04T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 900,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-07-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 750,
+    "transaction_type": "debit",
+    "merchant_name": "Water & Sewage",
+    "date_time": "2024-07-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Internet Provider",
+    "date_time": "2024-07-06T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3300,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-07-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 480,
+    "transaction_type": "debit",
+    "merchant_name": "Pharmacy",
+    "date_time": "2024-07-08T00:00:00",
+    "category": "Healthcare"
+  },
+  {
+    "amount": 620,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-07-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 210,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-07-12T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 950,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-07-15T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 5200,
+    "transaction_type": "debit",
+    "merchant_name": "Emergency Fund",
+    "date_time": "2024-07-16T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-07-17T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 67000,
+    "transaction_type": "credit",
+    "merchant_name": "Employer Inc",
+    "date_time": "2024-08-01T00:00:00",
+    "category": "Salary"
+  },
+  {
+    "amount": 23000,
+    "transaction_type": "debit",
+    "merchant_name": "Fixed Deposit",
+    "date_time": "2024-08-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 9000,
+    "transaction_type": "debit",
+    "merchant_name": "Mutual Fund Investment",
+    "date_time": "2024-08-02T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 5500,
+    "transaction_type": "debit",
+    "merchant_name": "Retirement Fund",
+    "date_time": "2024-08-03T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 8500,
+    "transaction_type": "debit",
+    "merchant_name": "City Apartments",
+    "date_time": "2024-08-04T00:00:00",
+    "category": "Housing"
+  },
+  {
+    "amount": 950,
+    "transaction_type": "debit",
+    "merchant_name": "Electric Company",
+    "date_time": "2024-08-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 780,
+    "transaction_type": "debit",
+    "merchant_name": "Water & Sewage",
+    "date_time": "2024-08-05T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 1200,
+    "transaction_type": "debit",
+    "merchant_name": "Internet Provider",
+    "date_time": "2024-08-06T00:00:00",
+    "category": "Utilities"
+  },
+  {
+    "amount": 3500,
+    "transaction_type": "debit",
+    "merchant_name": "Local Grocery",
+    "date_time": "2024-08-07T00:00:00",
+    "category": "Groceries"
+  },
+  {
+    "amount": 520,
+    "transaction_type": "debit",
+    "merchant_name": "Pharmacy",
+    "date_time": "2024-08-08T00:00:00",
+    "category": "Healthcare"
+  },
+  {
+    "amount": 680,
+    "transaction_type": "debit",
+    "merchant_name": "Local Restaurant",
+    "date_time": "2024-08-10T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 240,
+    "transaction_type": "debit",
+    "merchant_name": "Coffee Shop",
+    "date_time": "2024-08-12T00:00:00",
+    "category": "Dining"
+  },
+  {
+    "amount": 1100,
+    "transaction_type": "debit",
+    "merchant_name": "Clothing Store",
+    "date_time": "2024-08-15T00:00:00",
+    "category": "Shopping"
+  },
+  {
+    "amount": 5400,
+    "transaction_type": "debit",
+    "merchant_name": "Emergency Fund",
+    "date_time": "2024-08-16T00:00:00",
+    "category": "Savings"
+  },
+  {
+    "amount": 300,
+    "transaction_type": "debit",
+    "merchant_name": "Phone Bill",
+    "date_time": "2024-08-17T00:00:00",
+    "category": "Utilities"
+  }
+] 

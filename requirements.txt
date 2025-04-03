@@ -1,0 +1,5 @@
+# Core dependencies
+math
+json
+os
+sys
